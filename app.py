@@ -26,7 +26,7 @@ async def load_model():
     Dynamically load the LLaMA-2 model with 4-bit quantization for memory efficiency.
     """
     global tokenizer, model
-    model_name = "meta-llama/Llama-2-7b-hf"
+    model_name = "EleutherAI/gpt-neo-125M"
 
     # Configure Bits and Bytes for 4-bit quantization
     bnb_config = BitsAndBytesConfig(
@@ -68,3 +68,7 @@ async def generate_response(request: QueryRequest):
     # Decode and return the response
     answer = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return {"answer": answer}
+
+
+
+# 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
