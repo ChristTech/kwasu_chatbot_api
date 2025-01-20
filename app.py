@@ -2,6 +2,12 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
+from transformers.utils import logging
+import os
+
+os.environ["TRANSFORMERS_CACHE"] = "/tmp/huggingface"
+logging.set_verbosity_error()
+
 
 app = FastAPI()
 
