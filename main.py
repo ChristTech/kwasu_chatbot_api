@@ -88,7 +88,7 @@ def fetch_news():
 # Load FAISS index once
 index = faiss.read_index("faiss_index.bin")
 
-API_KEY = "" # Replace with your actual API key
+API_KEY = "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" # Replace with your actual API key
 
 url = "https://api.groq.com/openai/v1/chat/completions"
 

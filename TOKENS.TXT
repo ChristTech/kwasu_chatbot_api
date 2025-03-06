@@ -1,3 +1,0 @@
-Github market place = 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
-openrouter = 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  # Replace with your actual token
-Groq = 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

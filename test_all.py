@@ -1,40 +1,39 @@
-from geopy.geocoders import Nominatim
+import overpy
 
-# Initialize the geocoder
-geolocator = Nominatim(user_agent="geoapiExercises")
+def fetch_locations():
+    # Initialize the Overpass API
+    api = overpy.Overpass()
 
-# List of location names
-locations = [
-    "Eiffel Tower, Paris",
-    "Statue of Liberty, New York",
-    "Taj Mahal, Agra",
-    "Great Wall of China",
-    "Sydney Opera House, Sydney"
-]
+    # Define the bounding box for KWASU (min_lat, min_lon, max_lat, max_lon)
+    bbox = (8.7800, 4.4000, 8.9800, 4.6000)
 
-# Dictionary to store location names and their coordinates
-location_coordinates = {}
+    # Define the Overpass query to fetch all named features
+    query = f"""
+        [out:json];
+        (
+            node["name"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]});
+            way["name"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]});
+            relation["name"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]});
+        );
+        out body;
+        >;
+        out skel qt;
+    """
 
-# Fetch coordinates for each location
-for location in locations:
-    try:
-        # Get location data
-        location_data = geolocator.geocode(location)
-        
-        if location_data:
-            # Extract latitude and longitude
-            latitude = location_data.latitude
-            longitude = location_data.longitude
-            
-            # Save to dictionary
-            location_coordinates[location] = (latitude, longitude)
-            print(f"Fetched coordinates for {location}: ({latitude}, {longitude})")
-        else:
-            print(f"Could not find coordinates for {location}")
-    except Exception as e:
-        print(f"Error fetching coordinates for {location}: {e}")
+    # Execute the query
+    result = api.query(query)
 
-# Output the dictionary
-print("\nLocation Coordinates:")
-for location, coordinates in location_coordinates.items():
-    print(f"{location}: {coordinates}")
+    # Dictionary to store location names and their coordinates
+    location_coordinates = {}
+
+    # Extract and save location data
+    for node in result.nodes:
+        name = node.tags.get("name", "Unnamed Location")
+        latitude = node.lat
+        longitude = node.lon
+        location_coordinates[name] = (latitude, longitude)
+        print(f"Fetched {name}: ({latitude}, {longitude})")
+
+    return location_coordinates
+
+fetch_locations()
