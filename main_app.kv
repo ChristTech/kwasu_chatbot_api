@@ -1,0 +1,319 @@
+#:import MapSource kivy.garden.mapview.MapSource
+#:import asynckivy asynckivy
+
+# <NewsScreen>:
+#     MDBoxLayout:
+#         orientation: 'horizontal'
+
+#         MDScrollView:
+#             do_scroll_x: True
+#             do_scroll_y: False
+
+#             MDBoxLayout:
+#                 id: news_list
+#                 adaptive_height: True
+#                 size_hint_y: None
+#                 size_hint_x: 0.9
+#                 orientation: 'vertical'
+#                 pos_hint: {'center_x': 0.5}
+
+<Command>
+    size_hint_y: None
+    pos_hint: {"right": .98}
+    height: self.texture_size[1]
+    padding: 12, 10
+    theme_text_color: "Custom"
+    text_color: 1, 1, 1, 1
+    
+    canvas.before:
+        Color:
+            rgb: (80/255, 129/255, 8/255, 0.5)
+
+        RoundedRectangle:
+            size: self.size
+            pos: self.pos
+            radius: [23, 23, 23, 23]
+
+<Response>
+    size_hint_y: None
+    pos_hint: {"x": .02}
+    height: self.texture_size[1]
+    padding: 12, 10
+    theme_text_color: "Custom"
+    text_color: 1, 1, 1, 1
+
+    canvas.before:
+        Color:
+            rgb: (129/255, 117/255, 8/255, 0.5)
+
+        RoundedRectangle:
+            size: self.width, self.height
+            pos: self.pos
+            radius: [23, 23, 23, 0]
+
+<BaseMDNavigationItem>
+
+    MDNavigationItemIcon:
+        icon: root.icon
+
+    MDNavigationItemLabel:
+        text: root.text
+
+<NewsItem>:
+    id: news_container
+    orientation: "vertical"
+    padding: dp(10)
+    spacing: dp(5)
+    size_hint_y: None
+    height: self.minimum_height
+    md_bg_color: 1, 1, 1, 1
+    radius: dp(10), dp(10), dp(10), dp(10)
+    shadow_color: 0, 1, 0, .5
+    elevation: 4
+    
+
+    MDLabel:
+        text: root.title
+        font_style: "Title"
+        theme_text_color: "Primary"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    FitImage:
+        source: 'kwasu_logo.png'
+        size_hint_y: None
+        height: dp(120)
+        radius: dp(10), dp(10), dp(10), dp(10)
+
+    MDLabel:
+        text: root.date
+        font_style: "Label"
+        theme_text_color: "Secondary"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    
+    MDButton:
+        md_bg_color: self.theme_cls.primaryColor
+        size_hint: None, None
+        on_release: root.open_link()
+        style: 'text'
+        
+        MDButtonText:
+            text: "Read More"
+
+
+<BaseScreen>
+
+    FitImage:
+        source: f"university_image.jpg"
+        size_hint: 1, 1
+        pos_hint: {"center_x": .5, "center_y": .5}
+        radius: dp(24)
+
+
+MDBoxLayout:
+    orientation: "vertical"
+    md_bg_color: self.theme_cls.backgroundColor
+
+    MDScreenManager:
+        id: screen_manager
+
+        BaseScreen:
+            name: "NEWS/Updates"
+            image_size: "1200"
+
+            MDBoxLayout:
+                orientation: "vertical"
+
+                MDTopAppBar:
+                    type: "small"
+                    md_bg_color: self.theme_cls.backgroundColor
+
+                    MDTopAppBarLeadingButtonContainer:
+
+                        MDActionTopAppBarButton:
+                            icon: "school"
+                    
+                    MDTopAppBarTitle:
+                        text: "KWASU Updates"
+                        pos_hint: {"center_x": .5}
+
+                MDFloatLayout:
+                    #md_bg_color: app.theme_cls.primaryColor
+                    size_hint_y: 0.5
+                    pos_hint: {"center_x": 0.5}
+                    adaptive_height: True
+
+                    MDTextField:
+                        id: search_input
+                        mode: 'outlined'
+                        size_hint_x: .9
+                        pos_hint: {"center_x": .5, "center_y": .5}
+                        md_bg_color: self.theme_cls.primaryColor
+                        radius: 25, 25, 25, 25
+                        
+                        MDTextFieldHintText: 
+                            text: "Search"
+        
+
+                    MDIconButton:
+                        id: search_button
+                        pos_hint: {"center_x": .9, "center_y": .5}
+                        on_release: app.send_message()
+                        icon: "magnify"
+                        theme_icon_color: "Custom"
+                        icon_color: "green"
+                        style: "standard"  
+                        on_release: app.search_news()  
+
+                MDScrollView:
+                    do_scroll_x: False
+
+                    MDBoxLayout:
+                        id: news_list
+                        orientation: "vertical"
+                        padding: dp(10)
+                        spacing: dp(10)
+                        size_hint_y: None
+                        height: self.minimum_height
+    
+
+########################################################################################################################
+########################################################################################################################
+        BaseScreen:
+            name: "KWASUAI Chat"
+            image_size: "800"
+
+            
+            MDCard:
+                pos_hint: {"center_x": .5, "center_y": .5}
+                padding: "4dp"
+                size_hint_x: 0.8
+                size_hint_y: 0.8
+                style: "elevated"
+                # Sets custom properties.
+                theme_shadow_color: "Custom"
+                shadow_color: "#2C3E50"
+                theme_bg_color: "Custom"
+                md_bg_color: "#A8D5BA"
+                md_bg_color_disabled: "grey"
+                theme_shadow_offset: "Custom"
+                shadow_offset: (1, -2)
+                theme_shadow_softness: "Custom"
+                shadow_softness: 1
+                theme_elevation_level: "Custom"
+                elevation_level: 2
+
+                MDFloatLayout:
+
+                    MDFloatLayout:
+                        md_bg_color: app.theme_cls.primaryColor
+                        size_hint_y: .11
+                        pos_hint: {"center_x": 0.5, "center_y": .95}
+
+                        MDLabel:
+                            id: kwasu_bot
+                            text: "KWASU CHATBOT"
+                            pos_hint: {"center_x": .5, "center_y": .5}
+                            halign: "center"
+                            font_size: "25sp"
+
+                    MDScrollView:
+                        id: chat_scroll
+                        size_hint_y: .77
+                        pos_hint: {"x": 0, "y": .116}
+                        do_scroll_x: False
+                        do_scroll_y: True
+
+                        MDBoxLayout:
+                            id: chat_list
+                            orientation: "vertical"
+                            size_hint_y: None
+                            height: self.minimum_height
+                            spacing: dp(10)
+                            padding: dp(10)
+
+                    MDFloatLayout:
+                        #md_bg_color: app.theme_cls.primaryColor
+                        size_hint_y: .11
+                        pos_hint: {"center_x": 0.5, "center_y": .05}
+
+                        MDTextField:
+                            id: user_input
+                            mode: 'outlined'
+                            size_hint_x: .99
+                            pos_hint: {"center_x": .5, "center_y": .7}
+
+                            radius: 10, 10, 10, 10
+                            MDTextFieldHintText: 
+                                text: "Type your message..."
+            
+
+                        MDIconButton:
+                            id: send_message_button
+                            pos_hint: {"center_x": .9, "center_y": .7}
+                            on_release: app.send_message()
+                            icon: "send"
+                            theme_icon_color: "Custom"
+                            icon_color: "green"
+                            style: "standard"
+
+        BaseScreen:
+            name: "NAVIGATION"
+            image_size: "600"
+
+            MDCard:
+                size_hint: 0.75, 0.85
+                pos_hint: {"center_x": .5, "center_y": .5}
+                style: "elevated"
+                theme_elevation_level: "Custom"
+                elevation_level: 2
+
+                MDFloatLayout:
+
+                    MapView:
+                        id: map_view
+                        map_source: MapSource(url=app.map_sources[app.current_map])
+                        lat: 8.717236
+                        lon: 4.477021
+                        zoom: 12
+
+                
+
+                    MDButton:
+                        pos_hint: {"center_x": .5}
+                        #on_release: app.add_marker(8.717236, 4.477021)
+
+                        MDButtonText:
+                            text: "Add Marker"
+
+                    
+                    MDDropDownItem:
+                        pos_hint: {"bottom": 0.9, "right": 1}
+                        on_disabled: app.disable_dropdown()
+                        on_release: app.open_menu(self)
+
+                        MDDropDownItemText:
+                            id: drop_text
+                            text: "Pick a destination"
+            
+
+
+    MDNavigationBar:
+        on_switch_tabs: app.on_switch_tabs(*args)
+
+        BaseMDNavigationItem
+            icon: "update"
+            text: "NEWS/Updates"
+            active: True
+            
+
+        BaseMDNavigationItem
+            icon: "chat"
+            text: "KWASUAI Chat"
+
+        BaseMDNavigationItem
+            icon: "directions"
+            text: "NAVIGATION"
+            

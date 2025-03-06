@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (2981443 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="8.7140700" minlon="4.4714400" maxlat="8.7279900" maxlon="4.4937500"/>
+ <node id="4070481113" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7144628" lon="4.4933010"/>
+ <node id="4070481117" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7153694" lon="4.4905691"/>
+ <node id="4070481121" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7156975" lon="4.4711317"/>
+ <node id="4070481122" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7157006" lon="4.4713060"/>
+ <node id="4070481124" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7157264" lon="4.4710734"/>
+ <node id="4070481125" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7157747" lon="4.4709759"/>
+ <node id="4070481126" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7157835" lon="4.4714588"/>
+ <node id="4070481127" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7158398" lon="4.4709286"/>
+ <node id="4070481128" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7158588" lon="4.4922914"/>
+ <node id="4070481129" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7159147" lon="4.4708742"/>
+ <node id="4070481130" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7159270" lon="4.4715552"/>
+ <node id="4070481131" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7159463" lon="4.4727118"/>
+ <node id="4070481132" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7160854" lon="4.4708501"/>
+ <node id="4070481133" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7160984" lon="4.4715731"/>
+ <node id="4070481134" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7161006" lon="4.4785863"/>
+ <node id="4070481135" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7161976" lon="4.4723448"/>
+ <node id="4070481136" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7162048" lon="4.4717078"/>
+ <node id="4070481137" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7162476" lon="4.4709089"/>
+ <node id="4070481138" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7162584" lon="4.4715083"/>
+ <node id="4070481139" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7162864" lon="4.4716733"/>
+ <node id="4070481140" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7163585" lon="4.4722586"/>
+ <node id="4070481141" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7163799" lon="4.4723190"/>
+ <node id="4070481142" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7163642" lon="4.4710372"/>
+ <node id="4070481143" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7163703" lon="4.4713757"/>
+ <node id="4070481145" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7164158" lon="4.4722358"/>
+ <node id="4070481146" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:19Z" user="Chrisss Gü" uid="577766" lat="8.7164085" lon="4.4712057"/>
+ <node id="4070481147" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7164383" lon="4.4722950"/>
+ <node id="4070481148" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7164505" lon="4.4722007"/>
+ <node id="4070481149" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7164956" lon="4.4723067"/>
+ <node id="4070481150" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7165035" lon="4.4721773"/>
+ <node id="4070481152" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7165221" lon="4.4725394"/>
+ <node id="4070481153" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7165572" lon="4.4722777"/>
+ <node id="4070481154" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7165425" lon="4.4721803"/>
+ <node id="4070481155" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7165587" lon="4.4856872"/>
+ <node id="4070481156" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7165729" lon="4.4722471"/>
+ <node id="4070481157" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7166156" lon="4.4721649"/>
+ <node id="4070481158" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7166376" lon="4.4722167"/>
+ <node id="4070481159" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7167054" lon="4.4729387"/>
+ <node id="4070481160" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7167389" lon="4.4721397"/>
+ <node id="4070481161" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7168846" lon="4.4730467"/>
+ <node id="4070481162" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7168859" lon="4.4910013"/>
+ <node id="4070481163" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7170233" lon="4.4736797"/>
+ <node id="4070481164" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7171017" lon="4.4739578"/>
+ <node id="4070481165" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7171204" lon="4.4743305"/>
+ <node id="4070481166" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7171674" lon="4.4738135"/>
+ <node id="4070481167" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7171703" lon="4.4754758"/>
+ <node id="4070481168" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7172088" lon="4.4740749"/>
+ <node id="4070481169" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7172252" lon="4.4768811"/>
+ <node id="4070481170" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7172283" lon="4.4745779"/>
+ <node id="4070481171" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7172812" lon="4.4782865"/>
+ <node id="4070481172" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7173312" lon="4.4792777"/>
+ <node id="4070481173" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7173379" lon="4.4772851"/>
+ <node id="4070481174" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7173702" lon="4.4803638"/>
+ <node id="4070481175" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7173946" lon="4.4810653"/>
+ <node id="4070481176" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7174585" lon="4.4717180"/>
+ <node id="4070481177" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7174799" lon="4.4813993"/>
+ <node id="4070481178" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7174842" lon="4.4808725"/>
+ <node id="4070481179" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7175549" lon="4.4812769"/>
+ <node id="4070481180" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7176135" lon="4.4816968"/>
+ <node id="4070481181" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7176938" lon="4.4816418"/>
+ <node id="4070481182" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7178382" lon="4.4820071"/>
+ <node id="4070481183" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7178692" lon="4.4818957"/>
+ <node id="4070481184" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7179528" lon="4.4931235"/>
+ <node id="4070481185" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7180198" lon="4.4896484"/>
+ <node id="4070481186" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7180746" lon="4.4893189"/>
+ <node id="4070481187" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7182562" lon="4.4824065"/>
+ <node id="4070481188" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7182893" lon="4.4845027"/>
+ <node id="4070481189" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7182996" lon="4.4843755"/>
+ <node id="4070481190" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7183122" lon="4.4895099"/>
+ <node id="4070481191" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7183548" lon="4.4838428"/>
+ <node id="4070481192" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7183461" lon="4.4851198"/>
+ <node id="4070481193" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7183989" lon="4.4824147"/>
+ <node id="4070481194" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7184043" lon="4.4826952"/>
+ <node id="4070481195" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7184268" lon="4.4825755"/>
+ <node id="4070481196" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7184353" lon="4.4828129"/>
+ <node id="4070481197" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7184461" lon="4.4833712"/>
+ <node id="4070481198" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7184985" lon="4.4824775"/>
+ <node id="4070481199" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7185030" lon="4.4859637"/>
+ <node id="4070481200" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7185138" lon="4.4829053"/>
+ <node id="4070481201" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7185234" lon="4.4824642"/>
+ <node id="4070481202" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7185914" lon="4.4829397"/>
+ <node id="4070481203" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7186050" lon="4.4824207"/>
+ <node id="4070481204" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7186219" lon="4.4863350"/>
+ <node id="4070481205" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7186241" lon="4.4829542"/>
+ <node id="4070481206" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7187254" lon="4.4824163"/>
+ <node id="4070481207" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7187445" lon="4.4829498"/>
+ <node id="4070481208" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7188357" lon="4.4824651"/>
+ <node id="4070481209" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7188511" lon="4.4828930"/>
+ <node id="4070481210" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7189142" lon="4.4825576"/>
+ <node id="4070481211" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7189227" lon="4.4827950"/>
+ <node id="4070481212" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7189452" lon="4.4826753"/>
+ <node id="4070481213" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7191672" lon="4.4880047"/>
+ <node id="4070481214" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7191757" lon="4.4879202"/>
+ <node id="4070481215" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7191933" lon="4.4880854"/>
+ <node id="4070481216" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7192156" lon="4.4819498"/>
+ <node id="4070481217" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7192175" lon="4.4878465"/>
+ <node id="4070481218" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7192497" lon="4.4881483"/>
+ <node id="4070481219" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7192853" lon="4.4877964"/>
+ <node id="4070481220" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7193264" lon="4.4881827"/>
+ <node id="4070481221" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7193674" lon="4.4877785"/>
+ <node id="4070481222" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7194104" lon="4.4881825"/>
+ <node id="4070481223" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7194496" lon="4.4877960"/>
+ <node id="4070481224" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:20Z" user="Chrisss Gü" uid="577766" lat="8.7194870" lon="4.4881477"/>
+ <node id="4070481225" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7195176" lon="4.4878457"/>
+ <node id="4070481226" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7195430" lon="4.4880845"/>
+ <node id="4070481227" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7195598" lon="4.4879192"/>
+ <node id="4070481228" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7195620" lon="4.4816098"/>
+ <node id="4070481229" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7195688" lon="4.4880036"/>
+ <node id="4070481230" visible="true" version="2" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7195960" lon="4.4842844"/>
+ <node id="4070481231" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7197558" lon="4.4836881"/>
+ <node id="4070481232" visible="true" version="2" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7196560" lon="4.4847495"/>
+ <node id="4070481233" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7198119" lon="4.4814250"/>
+ <node id="4070481234" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7200487" lon="4.4831198"/>
+ <node id="4070481235" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7200687" lon="4.4812608"/>
+ <node id="4070481236" visible="true" version="2" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7197696" lon="4.4851765"/>
+ <node id="4070481237" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7203082" lon="4.4811077"/>
+ <node id="4070481238" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7205692" lon="4.4826142"/>
+ <node id="4070481239" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7205954" lon="4.4826027"/>
+ <node id="4070481240" visible="true" version="3" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7206909" lon="4.4861652"/>
+ <node id="4070481241" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7207235" lon="4.4809194"/>
+ <node id="4070481242" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7208552" lon="4.4824887"/>
+ <node id="4070481243" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7211587" lon="4.4860055"/>
+ <node id="4070481244" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7211804" lon="4.4863553"/>
+ <node id="4070481245" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7212688" lon="4.4860614"/>
+ <node id="4070481246" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7213160" lon="4.4879753"/>
+ <node id="4070481247" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7213171" lon="4.4823875"/>
+ <node id="4070481248" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7213232" lon="4.4856739"/>
+ <node id="4070481249" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7213887" lon="4.4807730"/>
+ <node id="4070481250" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7213943" lon="4.4855833"/>
+ <node id="4070481251" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7214333" lon="4.4857298"/>
+ <node id="4070481252" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7214733" lon="4.4860117"/>
+ <node id="4070481253" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7215027" lon="4.4856423"/>
+ <node id="4070481254" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7215308" lon="4.4858987"/>
+ <node id="4070481255" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7215661" lon="4.4852603"/>
+ <node id="4070481256" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7215489" lon="4.4864224"/>
+ <node id="4070481257" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7216746" lon="4.4853193"/>
+ <node id="4070481258" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7216918" lon="4.4857036"/>
+ <node id="4070481259" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7217652" lon="4.4855589"/>
+ <node id="4070481260" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7217741" lon="4.4855643"/>
+ <node id="4070481261" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7217848" lon="4.4855258"/>
+ <node id="4070481262" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7217964" lon="4.4855328"/>
+ <node id="4070481263" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7217974" lon="4.4861806"/>
+ <node id="4070481264" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218092" lon="4.4856878"/>
+ <node id="4070481265" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218444" lon="4.4823457"/>
+ <node id="4070481266" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218456" lon="4.4856262"/>
+ <node id="4070481267" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218549" lon="4.4860676"/>
+ <node id="4070481268" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218583" lon="4.4856338"/>
+ <node id="4070481269" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218663" lon="4.4855874"/>
+ <node id="4070481270" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218691" lon="4.4858107"/>
+ <node id="4070481271" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218707" lon="4.4854070"/>
+ <node id="4070481272" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7218805" lon="4.4855961"/>
+ <node id="4070481273" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7219042" lon="4.4855233"/>
+ <node id="4070481274" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7219069" lon="4.4857468"/>
+ <node id="4070481275" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7219269" lon="4.4858407"/>
+ <node id="4070481276" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7219658" lon="4.4857683"/>
+ <node id="4070481277" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7219962" lon="4.4855789"/>
+ <node id="4070481278" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220379" lon="4.4855081"/>
+ <node id="4070481279" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220482" lon="4.4855968"/>
+ <node id="4070481280" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220599" lon="4.4858200"/>
+ <node id="4070481281" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220806" lon="4.4857463"/>
+ <node id="4070481282" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220833" lon="4.4855313"/>
+ <node id="4070481283" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220952" lon="4.4857543"/>
+ <node id="4070481284" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7220981" lon="4.4859348"/>
+ <node id="4070481285" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221013" lon="4.4857077"/>
+ <node id="4070481286" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221021" lon="4.4807451"/>
+ <node id="4070481287" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221143" lon="4.4857148"/>
+ <node id="4070481288" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221444" lon="4.4871116"/>
+ <node id="4070481289" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220884" lon="4.4864841"/>
+ <node id="4070481290" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221481" lon="4.4856517"/>
+ <node id="4070481291" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221672" lon="4.4858060"/>
+ <node id="4070481292" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221791" lon="4.4858126"/>
+ <node id="4070481293" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221883" lon="4.4857736"/>
+ <node id="4070481294" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7221973" lon="4.4857786"/>
+ <node id="4070481295" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7222076" lon="4.4869621"/>
+ <node id="4070481296" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7222168" lon="4.4869668"/>
+ <node id="4070481297" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:21Z" user="Chrisss Gü" uid="577766" lat="8.7222249" lon="4.4869277"/>
+ <node id="4070481298" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7222369" lon="4.4869338"/>
+ <node id="4070481299" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7222604" lon="4.4870876"/>
+ <node id="4070481300" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7222648" lon="4.4856311"/>
+ <node id="4070481301" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7222925" lon="4.4870235"/>
+ <node id="4070481302" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223023" lon="4.4868031"/>
+ <node id="4070481303" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223056" lon="4.4870302"/>
+ <node id="4070481304" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223104" lon="4.4869834"/>
+ <node id="4070481305" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223252" lon="4.4869910"/>
+ <node id="4070481306" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223287" lon="4.4872059"/>
+ <node id="4070481307" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223438" lon="4.4869167"/>
+ <node id="4070481308" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223619" lon="4.4871395"/>
+ <node id="4070481309" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223665" lon="4.4872358"/>
+ <node id="4070481310" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7223896" lon="4.4861951"/>
+ <node id="4070481311" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224003" lon="4.4871608"/>
+ <node id="4070481312" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224054" lon="4.4807642"/>
+ <node id="4070481313" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224394" lon="4.4869657"/>
+ <node id="4070481314" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224416" lon="4.4860982"/>
+ <node id="4070481315" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224682" lon="4.4825305"/>
+ <node id="4070481316" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224709" lon="4.4869840"/>
+ <node id="4070481317" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224762" lon="4.4868922"/>
+ <node id="4070481318" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7224978" lon="4.4872059"/>
+ <node id="4070481319" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225015" lon="4.4869163"/>
+ <node id="4070481320" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225134" lon="4.4871309"/>
+ <node id="4070481321" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225285" lon="4.4871379"/>
+ <node id="4070481322" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225314" lon="4.4870909"/>
+ <node id="4070481323" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225437" lon="4.4873177"/>
+ <node id="4070481324" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225439" lon="4.4859293"/>
+ <node id="4070481325" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225448" lon="4.4870971"/>
+ <node id="4070481326" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7225743" lon="4.4870318"/>
+ <node id="4070481327" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226039" lon="4.4871845"/>
+ <node id="4070481328" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226074" lon="4.4858181"/>
+ <node id="4070481329" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226162" lon="4.4871901"/>
+ <node id="4070481330" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226214" lon="4.4857998"/>
+ <node id="4070481331" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226227" lon="4.4871507"/>
+ <node id="4070481332" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226321" lon="4.4871550"/>
+ <node id="4070481333" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226743" lon="4.4857037"/>
+ <node id="4070481334" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7226893" lon="4.4870031"/>
+ <node id="4070481335" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7227089" lon="4.4863702"/>
+ <node id="4070481336" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7227207" lon="4.4867174"/>
+ <node id="4070481337" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7227608" lon="4.4862732"/>
+ <node id="4070481338" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7228583" lon="4.4861130"/>
+ <node id="4070481339" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7229218" lon="4.4860018"/>
+ <node id="4070481340" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7229346" lon="4.4859761"/>
+ <node id="4070481341" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7229632" lon="4.4828749"/>
+ <node id="4070481342" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7229539" lon="4.4840244"/>
+ <node id="4070481343" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7229875" lon="4.4858800"/>
+ <node id="4070481344" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7230465" lon="4.4806126"/>
+ <node id="4070481345" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7230506" lon="4.4838945"/>
+ <node id="4070481346" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7230584" lon="4.4839013"/>
+ <node id="4070481347" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7230722" lon="4.4840290"/>
+ <node id="4070481348" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7230754" lon="4.4838652"/>
+ <node id="4070481349" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7230857" lon="4.4838741"/>
+ <node id="4070481350" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:22Z" user="Chrisss Gü" uid="577766" lat="8.7231106" lon="4.4841605"/>
+ <node id="4070481351" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231185" lon="4.4839746"/>
+ <node id="4070481352" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231296" lon="4.4839843"/>
+ <node id="4070481353" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231433" lon="4.4841971"/>
+ <node id="4070481354" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231453" lon="4.4839400"/>
+ <node id="4070481355" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231579" lon="4.4839509"/>
+ <node id="4070481356" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231585" lon="4.4841040"/>
+ <node id="4070481357" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231800" lon="4.4837629"/>
+ <node id="4070481358" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231935" lon="4.4838832"/>
+ <node id="4070481359" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7231936" lon="4.4841323"/>
+ <node id="4070481360" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7232748" lon="4.4839539"/>
+ <node id="4070481361" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7232779" lon="4.4841992"/>
+ <node id="4070481362" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7232966" lon="4.4843188"/>
+ <node id="4070481363" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233031" lon="4.4839771"/>
+ <node id="4070481364" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233104" lon="4.4841300"/>
+ <node id="4070481365" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233235" lon="4.4841404"/>
+ <node id="4070481366" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233278" lon="4.4838914"/>
+ <node id="4070481367" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233372" lon="4.4840954"/>
+ <node id="4070481368" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233485" lon="4.4839185"/>
+ <node id="4070481369" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233488" lon="4.4841046"/>
+ <node id="4070481370" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7233455" lon="4.4833437"/>
+ <node id="4070481371" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7233762" lon="4.4805313"/>
+ <node id="4070481372" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233860" lon="4.4842035"/>
+ <node id="4070481373" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233926" lon="4.4840481"/>
+ <node id="4070481374" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7233966" lon="4.4842120"/>
+ <node id="4070481375" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7233989" lon="4.4804124"/>
+ <node id="4070481376" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7234120" lon="4.4841751"/>
+ <node id="4070481377" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7234202" lon="4.4841816"/>
+ <node id="4070481378" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7234278" lon="4.4806509"/>
+ <node id="4070481379" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7234822" lon="4.4803254"/>
+ <node id="4070481380" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7235110" lon="4.4840475"/>
+ <node id="4070481381" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7235388" lon="4.4807172"/>
+ <node id="4070481382" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7235989" lon="4.4802987"/>
+ <node id="4070481383" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7236512" lon="4.4807115"/>
+ <node id="4070481384" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7237111" lon="4.4803411"/>
+ <node id="4070481385" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7237794" lon="4.4804315"/>
+ <node id="4070481386" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7236812" lon="4.4837689"/>
+ <node id="4070481387" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7237444" lon="4.4806478"/>
+ <node id="4070481388" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7237916" lon="4.4805446"/>
+ <node id="4070481489" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7242432" lon="4.4841205"/>
+ <node id="4070481490" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7244877" lon="4.4777964"/>
+ <node id="4070481491" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7246889" lon="4.4819395"/>
+ <node id="4070481492" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7245836" lon="4.4842353"/>
+ <node id="4070481493" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7249521" lon="4.4892673"/>
+ <node id="4070481494" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7251401" lon="4.4880879"/>
+ <node id="4070481495" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7252603" lon="4.4782707"/>
+ <node id="4070481496" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7253392" lon="4.4841763"/>
+ <node id="4070481497" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7255870" lon="4.4784445"/>
+ <node id="4070481498" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7258527" lon="4.4838939"/>
+ <node id="4070481499" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7260629" lon="4.4837683"/>
+ <node id="4070481500" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7271162" lon="4.4831625"/>
+ <node id="4070481501" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766" lat="8.7279869" lon="4.4771633"/>
+ <node id="7345311130" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7203744" lon="4.4863982"/>
+ <node id="7345311131" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202444" lon="4.4863726"/>
+ <node id="7345311132" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7203055" lon="4.4863862"/>
+ <node id="7345311133" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7204274" lon="4.4863929"/>
+ <node id="7345311134" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7205096" lon="4.4863795"/>
+ <node id="7345311135" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7205740" lon="4.4863694"/>
+ <node id="7345311136" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7195777" lon="4.4851805"/>
+ <node id="7345311137" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7198269" lon="4.4856204"/>
+ <node id="7345311138" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7200947" lon="4.4861059"/>
+ <node id="7345311139" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202455" lon="4.4865846"/>
+ <node id="7345311140" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202576" lon="4.4865479"/>
+ <node id="7345311141" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202801" lon="4.4865165"/>
+ <node id="7345311142" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203108" lon="4.4864935"/>
+ <node id="7345311143" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203470" lon="4.4864810"/>
+ <node id="7345311144" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203892" lon="4.4864807"/>
+ <node id="7345311145" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204292" lon="4.4864945"/>
+ <node id="7345311146" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204623" lon="4.4865209"/>
+ <node id="7345311147" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204849" lon="4.4865570"/>
+ <node id="7345311148" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204907" lon="4.4866372"/>
+ <node id="7345311149" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204758" lon="4.4866728"/>
+ <node id="7345311150" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204509" lon="4.4867022"/>
+ <node id="7345311151" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204184" lon="4.4867226"/>
+ <node id="7345311152" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203813" lon="4.4867322"/>
+ <node id="7345311153" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203431" lon="4.4867301"/>
+ <node id="7345311154" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203073" lon="4.4867164"/>
+ <node id="7345311155" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202773" lon="4.4866924"/>
+ <node id="7345311156" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202558" lon="4.4866604"/>
+ <node id="7345311157" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202448" lon="4.4866233"/>
+ <node id="7345311158" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204944" lon="4.4865986"/>
+ <node id="7345311159" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7209510" lon="4.4863003"/>
+ <node id="7345311160" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7203280" lon="4.4859141"/>
+ <node id="7345311161" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516" lat="8.7200205" lon="4.4855976"/>
+ <node id="9251962761" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7241855" lon="4.4877675"/>
+ <node id="9251962762" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7240370" lon="4.4881028"/>
+ <node id="9251962763" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7241842" lon="4.4878158"/>
+ <node id="9251962764" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7240503" lon="4.4826646"/>
+ <node id="9251962765" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7234697" lon="4.4769582"/>
+ <node id="9251962766" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7238567" lon="4.4770521"/>
+ <node id="9251962767" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7241801" lon="4.4771522"/>
+ <node id="9251962768" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7246653" lon="4.4775107"/>
+ <node id="9251962769" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7241537" lon="4.4877273"/>
+ <node id="9251962770" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7227857" lon="4.4869199"/>
+ <node id="9251962771" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7227247" lon="4.4868261"/>
+ <node id="9251962772" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7204606" lon="4.4802734"/>
+ <node id="9251962773" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7203227" lon="4.4800106"/>
+ <node id="9251962774" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220119" lon="4.4805552"/>
+ <node id="9251962775" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7212665" lon="4.4806758"/>
+ <node id="9251962776" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7206912" lon="4.4808125"/>
+ <node id="9251962777" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7201501" lon="4.4810664"/>
+ <node id="9251962778" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7205640" lon="4.4805309"/>
+ <node id="9251962779" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202485" lon="4.4806758"/>
+ <node id="9251962780" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7201848" lon="4.4807669"/>
+ <node id="9251962781" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7201323" lon="4.4812201"/>
+ <node id="9251962782" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7175442" lon="4.4859597"/>
+ <node id="9251962783" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7179976" lon="4.4853696"/>
+ <node id="9251962784" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7180771" lon="4.4851470"/>
+ <node id="9251962785" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7180798" lon="4.4849592"/>
+ <node id="9251962786" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7180135" lon="4.4847044"/>
+ <node id="9251962787" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7179234" lon="4.4844335"/>
+ <node id="9251962788" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7179896" lon="4.4842753"/>
+ <node id="9251962789" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7180798" lon="4.4842055"/>
+ <node id="9251962790" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7183132" lon="4.4842066"/>
+ <node id="9251962791" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7249755" lon="4.4842458"/>
+ <node id="9251962792" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7239495" lon="4.4839749"/>
+ <node id="9251962793" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7225577" lon="4.4856030"/>
+ <node id="9251962794" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7239548" lon="4.4831139"/>
+ <node id="9251962795" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7244016" lon="4.4833580"/>
+ <node id="9251962796" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7235373" lon="4.4829020"/>
+ <node id="9251962797" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7233716" lon="4.4828175"/>
+ <node id="9251962798" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7229156" lon="4.4823374"/>
+ <node id="9251962799" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7227300" lon="4.4821563"/>
+ <node id="9251962800" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7225908" lon="4.4820732"/>
+ <node id="9251962801" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7222024" lon="4.4820182"/>
+ <node id="9251962802" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221030" lon="4.4820410"/>
+ <node id="9251962803" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220248" lon="4.4820839"/>
+ <node id="9251962804" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219691" lon="4.4821349"/>
+ <node id="9251962805" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219397" lon="4.4823739"/>
+ <node id="9251962806" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7238620" lon="4.4817299"/>
+ <node id="9251962807" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7246760" lon="4.4810379"/>
+ <node id="9251962808" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7234897" lon="4.4809196"/>
+ <node id="9251962809" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7240158" lon="4.4828631"/>
+ <node id="9251962810" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7241351" lon="4.4825010"/>
+ <node id="9251962811" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7243008" lon="4.4823052"/>
+ <node id="9251962812" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7243300" lon="4.4822113"/>
+ <node id="9251962813" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7243180" lon="4.4820973"/>
+ <node id="9251962814" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7242743" lon="4.4820182"/>
+ <node id="9251962815" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7241563" lon="4.4819176"/>
+ <node id="9251962816" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7236049" lon="4.4814777"/>
+ <node id="9252012017" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7234803" lon="4.4812578"/>
+ <node id="9252012018" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7234564" lon="4.4810566"/>
+ <node id="9252012019" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7244055" lon="4.4777173"/>
+ <node id="9252012020" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7236579" lon="4.4747534"/>
+ <node id="9252012021" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7236606" lon="4.4752282"/>
+ <node id="9252012022" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7236765" lon="4.4755635"/>
+ <node id="9252012023" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7237958" lon="4.4759926"/>
+ <node id="9252012024" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7240900" lon="4.4769046"/>
+ <node id="9252012025" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7243618" lon="4.4776516"/>
+ <node id="9252012026" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7166282" lon="4.4721926"/>
+ <node id="9252012027" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7192622" lon="4.4868770"/>
+ <node id="9252012028" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7202172" lon="4.4863242"/>
+ <node id="9252012029" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219081" lon="4.4828984"/>
+ <node id="9252012030" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219930" lon="4.4827558"/>
+ <node id="9252012031" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224927" lon="4.4832956"/>
+ <node id="9252012032" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224224" lon="4.4832627"/>
+ <node id="9252012033" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7223906" lon="4.4832560"/>
+ <node id="9252012034" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7223601" lon="4.4832118"/>
+ <node id="9252012035" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7223694" lon="4.4831541"/>
+ <node id="9252012036" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7223946" lon="4.4831125"/>
+ <node id="9252012037" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224278" lon="4.4830629"/>
+ <node id="9252012038" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224582" lon="4.4829825"/>
+ <node id="9252012039" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224794" lon="4.4829355"/>
+ <node id="9252012040" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224755" lon="4.4828551"/>
+ <node id="9252012041" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224476" lon="4.4827826"/>
+ <node id="9252012042" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7223880" lon="4.4827142"/>
+ <node id="9252012043" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7223098" lon="4.4826861"/>
+ <node id="9252012044" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221547" lon="4.4826445"/>
+ <node id="9252012045" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219969" lon="4.4826123"/>
+ <node id="9252012046" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7214662" lon="4.4827971"/>
+ <node id="9252012047" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7214773" lon="4.4826398"/>
+ <node id="9252012048" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7215316" lon="4.4826043"/>
+ <node id="9252012049" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7216052" lon="4.4825855"/>
+ <node id="9252012050" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7217219" lon="4.4825915"/>
+ <node id="9252012051" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7217988" lon="4.4826264"/>
+ <node id="9252012052" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7218538" lon="4.4827022"/>
+ <node id="9252012053" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7218995" lon="4.4827974"/>
+ <node id="9252012054" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219142" lon="4.4829693"/>
+ <node id="9252012055" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219930" lon="4.4831112"/>
+ <node id="9252012056" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7224486" lon="4.4833846"/>
+ <node id="9252012057" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220354" lon="4.4781920"/>
+ <node id="9252012058" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221255" lon="4.4796833"/>
+ <node id="9252012059" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221573" lon="4.4800642"/>
+ <node id="9252012060" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221017" lon="4.4803271"/>
+ <node id="9252012061" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7219346" lon="4.4807517"/>
+ <node id="9252012062" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220652" lon="4.4838285"/>
+ <node id="9252012063" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220357" lon="4.4838853"/>
+ <node id="9252012064" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220357" lon="4.4839495"/>
+ <node id="9252012065" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7220651" lon="4.4840064"/>
+ <node id="9252012066" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221174" lon="4.4840428"/>
+ <node id="9252012067" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221803" lon="4.4840506"/>
+ <node id="9252012068" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7222397" lon="4.4840278"/>
+ <node id="9252012069" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7222817" lon="4.4839798"/>
+ <node id="9252012070" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7222969" lon="4.4839175"/>
+ <node id="9252012071" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7222818" lon="4.4838552"/>
+ <node id="9252012072" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221804" lon="4.4837844"/>
+ <node id="9252012073" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7221174" lon="4.4837921"/>
+ <node id="9252012074" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7208172" lon="4.4862346"/>
+ <node id="9252012075" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7222397" lon="4.4838071"/>
+ <node id="9252012076" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567" lat="8.7227827" lon="4.4827091"/>
+ <node id="12377448809" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7141798" lon="4.4713122"/>
+ <node id="12377448810" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7144582" lon="4.4716823"/>
+ <node id="12377448811" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7144874" lon="4.4716904"/>
+ <node id="12377448812" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7145165" lon="4.4716850"/>
+ <node id="12377448813" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7152827" lon="4.4710493"/>
+ <node id="12377448814" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7153066" lon="4.4710037"/>
+ <node id="12377448815" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7152615" lon="4.4708616"/>
+ <node id="12377448816" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7152509" lon="4.4708133"/>
+ <node id="12377448817" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720" lat="8.7151173" lon="4.4705074"/>
+ <way id="404791114" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481186"/>
+  <nd ref="4070481190"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="culvert"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="404791116" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481157"/>
+  <nd ref="4070481154"/>
+  <nd ref="4070481150"/>
+  <nd ref="4070481148"/>
+  <nd ref="4070481145"/>
+  <nd ref="4070481140"/>
+  <nd ref="4070481141"/>
+  <nd ref="4070481147"/>
+  <nd ref="4070481149"/>
+  <nd ref="4070481153"/>
+  <nd ref="4070481156"/>
+  <nd ref="4070481158"/>
+  <nd ref="9252012026"/>
+  <nd ref="4070481157"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791119" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481277"/>
+  <nd ref="4070481278"/>
+  <nd ref="4070481271"/>
+  <nd ref="4070481262"/>
+  <nd ref="4070481261"/>
+  <nd ref="4070481259"/>
+  <nd ref="4070481260"/>
+  <nd ref="4070481258"/>
+  <nd ref="4070481270"/>
+  <nd ref="4070481274"/>
+  <nd ref="4070481264"/>
+  <nd ref="4070481266"/>
+  <nd ref="4070481268"/>
+  <nd ref="4070481272"/>
+  <nd ref="4070481269"/>
+  <nd ref="4070481273"/>
+  <nd ref="4070481277"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791121" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481359"/>
+  <nd ref="4070481353"/>
+  <nd ref="4070481362"/>
+  <nd ref="4070481372"/>
+  <nd ref="4070481374"/>
+  <nd ref="4070481377"/>
+  <nd ref="4070481376"/>
+  <nd ref="4070481380"/>
+  <nd ref="4070481368"/>
+  <nd ref="4070481363"/>
+  <nd ref="4070481373"/>
+  <nd ref="4070481369"/>
+  <nd ref="4070481367"/>
+  <nd ref="4070481364"/>
+  <nd ref="4070481365"/>
+  <nd ref="4070481361"/>
+  <nd ref="4070481359"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791123" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:23Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481311"/>
+  <nd ref="4070481309"/>
+  <nd ref="4070481323"/>
+  <nd ref="4070481327"/>
+  <nd ref="4070481329"/>
+  <nd ref="4070481332"/>
+  <nd ref="4070481331"/>
+  <nd ref="4070481334"/>
+  <nd ref="4070481319"/>
+  <nd ref="4070481316"/>
+  <nd ref="4070481326"/>
+  <nd ref="4070481325"/>
+  <nd ref="4070481322"/>
+  <nd ref="4070481320"/>
+  <nd ref="4070481321"/>
+  <nd ref="4070481318"/>
+  <nd ref="4070481311"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791124" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481360"/>
+  <nd ref="4070481366"/>
+  <nd ref="4070481357"/>
+  <nd ref="4070481349"/>
+  <nd ref="4070481348"/>
+  <nd ref="4070481345"/>
+  <nd ref="4070481346"/>
+  <nd ref="4070481342"/>
+  <nd ref="4070481350"/>
+  <nd ref="4070481356"/>
+  <nd ref="4070481347"/>
+  <nd ref="4070481351"/>
+  <nd ref="4070481352"/>
+  <nd ref="4070481355"/>
+  <nd ref="4070481354"/>
+  <nd ref="4070481358"/>
+  <nd ref="4070481360"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791125" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481276"/>
+  <nd ref="4070481275"/>
+  <nd ref="4070481284"/>
+  <nd ref="4070481291"/>
+  <nd ref="4070481292"/>
+  <nd ref="4070481294"/>
+  <nd ref="4070481293"/>
+  <nd ref="4070481300"/>
+  <nd ref="4070481282"/>
+  <nd ref="4070481279"/>
+  <nd ref="4070481290"/>
+  <nd ref="4070481287"/>
+  <nd ref="4070481285"/>
+  <nd ref="4070481281"/>
+  <nd ref="4070481283"/>
+  <nd ref="4070481280"/>
+  <nd ref="4070481276"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791126" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481313"/>
+  <nd ref="4070481317"/>
+  <nd ref="4070481302"/>
+  <nd ref="4070481298"/>
+  <nd ref="4070481297"/>
+  <nd ref="4070481295"/>
+  <nd ref="4070481296"/>
+  <nd ref="4070481288"/>
+  <nd ref="4070481306"/>
+  <nd ref="4070481308"/>
+  <nd ref="4070481299"/>
+  <nd ref="4070481301"/>
+  <nd ref="4070481303"/>
+  <nd ref="4070481305"/>
+  <nd ref="4070481304"/>
+  <nd ref="4070481307"/>
+  <nd ref="4070481313"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791127" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481338"/>
+  <nd ref="4070481324"/>
+  <nd ref="4070481328"/>
+  <nd ref="4070481339"/>
+  <nd ref="4070481338"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791128" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481337"/>
+  <nd ref="4070481335"/>
+  <nd ref="4070481310"/>
+  <nd ref="4070481314"/>
+  <nd ref="4070481337"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791129" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481253"/>
+  <nd ref="4070481250"/>
+  <nd ref="4070481255"/>
+  <nd ref="4070481257"/>
+  <nd ref="4070481253"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791130" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481267"/>
+  <nd ref="4070481263"/>
+  <nd ref="4070481252"/>
+  <nd ref="4070481254"/>
+  <nd ref="4070481267"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791131" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481343"/>
+  <nd ref="4070481340"/>
+  <nd ref="4070481330"/>
+  <nd ref="4070481333"/>
+  <nd ref="4070481343"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791132" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481251"/>
+  <nd ref="4070481245"/>
+  <nd ref="4070481243"/>
+  <nd ref="4070481248"/>
+  <nd ref="4070481251"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="404791133" visible="true" version="3" changeset="121180635" timestamp="2022-05-19T07:59:04Z" user="b-jazz-bot" uid="9451067">
+  <nd ref="4070481501"/>
+  <nd ref="4070481176"/>
+  <nd ref="4070481160"/>
+  <nd ref="9252012026"/>
+  <nd ref="4070481157"/>
+  <nd ref="4070481154"/>
+  <nd ref="4070481150"/>
+  <nd ref="4070481148"/>
+  <nd ref="4070481145"/>
+  <nd ref="4070481140"/>
+  <nd ref="4070481135"/>
+  <nd ref="4070481131"/>
+  <nd ref="4070481134"/>
+  <nd ref="4070481155"/>
+  <nd ref="4070481117"/>
+  <nd ref="4070481113"/>
+  <nd ref="4070481184"/>
+  <nd ref="4070481246"/>
+  <nd ref="4070481493"/>
+  <nd ref="4070481500"/>
+  <nd ref="4070481491"/>
+  <nd ref="4070481501"/>
+  <tag k="amenity" v="university"/>
+  <tag k="name" v="Kwara State University"/>
+  <tag k="website" v="https://www.kwasu.edu.ng/"/>
+  <tag k="wikipedia" v="en:Kwara State University"/>
+ </way>
+ <way id="404791134" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481371"/>
+  <nd ref="4070481378"/>
+  <nd ref="4070481381"/>
+  <nd ref="4070481383"/>
+  <nd ref="4070481387"/>
+  <nd ref="4070481388"/>
+  <nd ref="4070481385"/>
+  <nd ref="4070481384"/>
+  <nd ref="4070481382"/>
+  <nd ref="4070481379"/>
+  <nd ref="4070481375"/>
+  <nd ref="4070481371"/>
+  <tag k="highway" v="residential"/>
+  <tag k="junction" v="roundabout"/>
+ </way>
+ <way id="404791135" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481208"/>
+  <nd ref="4070481216"/>
+  <nd ref="4070481228"/>
+  <nd ref="4070481233"/>
+  <nd ref="4070481235"/>
+  <nd ref="9251962781"/>
+  <nd ref="4070481237"/>
+  <nd ref="4070481241"/>
+  <nd ref="4070481249"/>
+  <nd ref="9252012061"/>
+  <nd ref="4070481286"/>
+  <nd ref="4070481312"/>
+  <nd ref="4070481344"/>
+  <nd ref="4070481371"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791136" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481201"/>
+  <nd ref="4070481193"/>
+  <nd ref="4070481183"/>
+  <nd ref="4070481181"/>
+  <nd ref="4070481179"/>
+  <nd ref="4070481178"/>
+  <nd ref="4070481173"/>
+  <nd ref="4070481170"/>
+  <nd ref="4070481168"/>
+  <nd ref="4070481166"/>
+  <nd ref="4070481161"/>
+  <nd ref="4070481156"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="404791137" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:24Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481219"/>
+  <nd ref="4070481217"/>
+  <nd ref="4070481214"/>
+  <nd ref="4070481213"/>
+  <nd ref="4070481215"/>
+  <nd ref="4070481218"/>
+  <nd ref="4070481220"/>
+  <nd ref="4070481222"/>
+  <nd ref="4070481224"/>
+  <nd ref="4070481226"/>
+  <nd ref="4070481229"/>
+  <nd ref="4070481227"/>
+  <nd ref="4070481225"/>
+  <nd ref="4070481223"/>
+  <nd ref="4070481221"/>
+  <nd ref="4070481219"/>
+  <tag k="highway" v="residential"/>
+  <tag k="junction" v="roundabout"/>
+ </way>
+ <way id="404791138" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:25Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481125"/>
+  <nd ref="4070481124"/>
+  <nd ref="4070481121"/>
+  <nd ref="4070481122"/>
+  <nd ref="4070481126"/>
+  <nd ref="4070481130"/>
+  <nd ref="4070481133"/>
+  <nd ref="4070481138"/>
+  <nd ref="4070481143"/>
+  <nd ref="4070481146"/>
+  <nd ref="4070481142"/>
+  <nd ref="4070481137"/>
+  <nd ref="4070481132"/>
+  <nd ref="4070481129"/>
+  <nd ref="4070481127"/>
+  <nd ref="4070481125"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="junction" v="roundabout"/>
+ </way>
+ <way id="404791140" visible="true" version="2" changeset="43086621" timestamp="2016-10-22T18:14:26Z" user="Johnwhelan" uid="186592">
+  <nd ref="4070481195"/>
+  <nd ref="4070481194"/>
+  <nd ref="4070481196"/>
+  <nd ref="4070481200"/>
+  <nd ref="4070481202"/>
+  <nd ref="4070481205"/>
+  <nd ref="4070481207"/>
+  <nd ref="4070481209"/>
+  <nd ref="4070481211"/>
+  <nd ref="4070481212"/>
+  <nd ref="4070481210"/>
+  <nd ref="4070481208"/>
+  <nd ref="4070481206"/>
+  <nd ref="4070481203"/>
+  <nd ref="4070481201"/>
+  <nd ref="4070481198"/>
+  <nd ref="4070481195"/>
+  <tag k="highway" v="residential"/>
+  <tag k="junction" v="roundabout"/>
+ </way>
+ <way id="404791142" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481147"/>
+  <nd ref="4070481152"/>
+  <nd ref="4070481159"/>
+  <nd ref="4070481163"/>
+  <nd ref="4070481164"/>
+  <nd ref="4070481165"/>
+  <nd ref="4070481167"/>
+  <nd ref="4070481169"/>
+  <nd ref="4070481171"/>
+  <nd ref="4070481172"/>
+  <nd ref="4070481174"/>
+  <nd ref="4070481175"/>
+  <nd ref="4070481177"/>
+  <nd ref="4070481180"/>
+  <nd ref="4070481182"/>
+  <nd ref="4070481187"/>
+  <nd ref="4070481195"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="404791143" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:25Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481189"/>
+  <nd ref="4070481230"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791144" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:25Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481235"/>
+  <nd ref="4070481239"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791145" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:25Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481384"/>
+  <nd ref="4070481495"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791146" visible="true" version="3" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481494"/>
+  <nd ref="4070481336"/>
+  <nd ref="4070481289"/>
+  <nd ref="4070481256"/>
+  <nd ref="4070481244"/>
+  <nd ref="7345311159"/>
+  <nd ref="9252012074"/>
+  <nd ref="4070481240"/>
+  <nd ref="7345311160"/>
+  <nd ref="7345311161"/>
+  <nd ref="4070481236"/>
+  <nd ref="4070481232"/>
+  <nd ref="4070481230"/>
+  <nd ref="4070481231"/>
+  <nd ref="4070481234"/>
+  <nd ref="4070481238"/>
+  <nd ref="4070481239"/>
+  <nd ref="4070481242"/>
+  <nd ref="4070481247"/>
+  <nd ref="4070481265"/>
+  <nd ref="9251962805"/>
+  <nd ref="4070481315"/>
+  <nd ref="9252012076"/>
+  <nd ref="4070481341"/>
+  <nd ref="4070481370"/>
+  <nd ref="4070481386"/>
+  <nd ref="9251962792"/>
+  <nd ref="4070481489"/>
+  <nd ref="4070481492"/>
+  <nd ref="9251962791"/>
+  <nd ref="4070481496"/>
+  <nd ref="4070481498"/>
+  <nd ref="4070481499"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791147" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481497"/>
+  <nd ref="4070481495"/>
+  <nd ref="4070481490"/>
+  <nd ref="9252012019"/>
+  <nd ref="9252012025"/>
+  <nd ref="9251962767"/>
+  <nd ref="9252012024"/>
+  <nd ref="9252012023"/>
+  <nd ref="9252012022"/>
+  <nd ref="9252012021"/>
+  <nd ref="9252012020"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791148" visible="true" version="1" changeset="37964047" timestamp="2016-03-20T21:03:25Z" user="Chrisss Gü" uid="577766">
+  <nd ref="4070481218"/>
+  <nd ref="4070481185"/>
+  <nd ref="4070481162"/>
+  <nd ref="4070481128"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="404791154" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481202"/>
+  <nd ref="4070481197"/>
+  <nd ref="4070481191"/>
+  <nd ref="9251962790"/>
+  <nd ref="4070481189"/>
+  <nd ref="4070481188"/>
+  <nd ref="4070481192"/>
+  <nd ref="4070481199"/>
+  <nd ref="4070481204"/>
+  <nd ref="4070481219"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="785770177" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516">
+  <nd ref="7345311135"/>
+  <nd ref="7345311134"/>
+  <nd ref="7345311133"/>
+  <nd ref="7345311130"/>
+  <nd ref="7345311132"/>
+  <nd ref="7345311131"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="785770178" visible="true" version="2" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="7345311143"/>
+  <nd ref="7345311131"/>
+  <nd ref="9252012028"/>
+  <nd ref="7345311138"/>
+  <nd ref="7345311137"/>
+  <nd ref="7345311136"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="785770179" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516">
+  <nd ref="7345311157"/>
+  <nd ref="7345311156"/>
+  <nd ref="7345311155"/>
+  <nd ref="7345311154"/>
+  <nd ref="7345311153"/>
+  <nd ref="7345311152"/>
+  <nd ref="7345311151"/>
+  <nd ref="7345311150"/>
+  <nd ref="7345311149"/>
+  <nd ref="7345311148"/>
+  <nd ref="7345311158"/>
+  <nd ref="7345311147"/>
+  <nd ref="7345311146"/>
+  <nd ref="7345311145"/>
+  <nd ref="7345311144"/>
+  <nd ref="7345311143"/>
+  <nd ref="7345311142"/>
+  <nd ref="7345311141"/>
+  <nd ref="7345311140"/>
+  <nd ref="7345311139"/>
+  <nd ref="7345311157"/>
+  <tag k="highway" v="residential"/>
+  <tag k="junction" v="roundabout"/>
+ </way>
+ <way id="785770180" visible="true" version="1" changeset="82803632" timestamp="2020-03-30T05:25:33Z" user="QuackLake" uid="10409516">
+  <nd ref="4070481240"/>
+  <nd ref="7345311135"/>
+  <nd ref="7345311158"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="1002489131" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962767"/>
+  <nd ref="9251962766"/>
+  <nd ref="9251962765"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489132" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481490"/>
+  <nd ref="9251962768"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489133" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481336"/>
+  <nd ref="9251962771"/>
+  <nd ref="9251962770"/>
+  <nd ref="9251962769"/>
+  <nd ref="9251962761"/>
+  <nd ref="9251962763"/>
+  <nd ref="9251962762"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489134" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962776"/>
+  <nd ref="9251962778"/>
+  <nd ref="9251962772"/>
+  <nd ref="9251962773"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489135" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962777"/>
+  <nd ref="9251962776"/>
+  <nd ref="9251962775"/>
+  <nd ref="9251962774"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489136" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962781"/>
+  <nd ref="9251962777"/>
+  <nd ref="9251962780"/>
+  <nd ref="9251962779"/>
+  <nd ref="9251962778"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489137" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962790"/>
+  <nd ref="9251962789"/>
+  <nd ref="9251962788"/>
+  <nd ref="9251962787"/>
+  <nd ref="9251962786"/>
+  <nd ref="9251962785"/>
+  <nd ref="9251962784"/>
+  <nd ref="9251962783"/>
+  <nd ref="9251962782"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489138" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481289"/>
+  <nd ref="9251962793"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489139" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962805"/>
+  <nd ref="9251962804"/>
+  <nd ref="9251962803"/>
+  <nd ref="9251962802"/>
+  <nd ref="9251962801"/>
+  <nd ref="9251962800"/>
+  <nd ref="9251962799"/>
+  <nd ref="9251962798"/>
+  <nd ref="9251962797"/>
+  <nd ref="9251962796"/>
+  <nd ref="9251962794"/>
+  <nd ref="9251962795"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489140" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9251962808"/>
+  <nd ref="9251962807"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489141" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481381"/>
+  <nd ref="9251962808"/>
+  <nd ref="9252012018"/>
+  <nd ref="9252012017"/>
+  <nd ref="9251962816"/>
+  <nd ref="9251962806"/>
+  <nd ref="9251962815"/>
+  <nd ref="9251962814"/>
+  <nd ref="9251962813"/>
+  <nd ref="9251962812"/>
+  <nd ref="9251962811"/>
+  <nd ref="9251962810"/>
+  <nd ref="9251962764"/>
+  <nd ref="9251962809"/>
+  <nd ref="9251962794"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489142" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481154"/>
+  <nd ref="4070481139"/>
+  <nd ref="4070481138"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1002489143" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481156"/>
+  <nd ref="4070481154"/>
+  <tag k="covered" v="yes"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1002489144" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481145"/>
+  <nd ref="4070481147"/>
+  <tag k="covered" v="yes"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1002489145" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="4070481133"/>
+  <nd ref="4070481136"/>
+  <nd ref="4070481145"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1002489146" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012028"/>
+  <nd ref="9252012027"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489147" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012044"/>
+  <nd ref="9252012030"/>
+  <nd ref="9252012029"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489148" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012050"/>
+  <nd ref="9252012045"/>
+  <nd ref="9252012044"/>
+  <nd ref="9252012043"/>
+  <nd ref="9252012042"/>
+  <nd ref="9252012041"/>
+  <nd ref="9252012040"/>
+  <nd ref="9252012039"/>
+  <nd ref="9252012038"/>
+  <nd ref="9252012037"/>
+  <nd ref="9252012036"/>
+  <nd ref="9252012035"/>
+  <nd ref="9252012034"/>
+  <nd ref="9252012033"/>
+  <nd ref="9252012032"/>
+  <nd ref="9252012031"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489149" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012056"/>
+  <nd ref="9252012055"/>
+  <nd ref="9252012054"/>
+  <nd ref="9252012029"/>
+  <nd ref="9252012053"/>
+  <nd ref="9252012052"/>
+  <nd ref="9252012051"/>
+  <nd ref="9252012050"/>
+  <nd ref="9252012049"/>
+  <nd ref="9252012048"/>
+  <nd ref="9252012047"/>
+  <nd ref="9252012046"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489150" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012061"/>
+  <nd ref="9251962774"/>
+  <nd ref="9252012060"/>
+  <nd ref="9252012059"/>
+  <nd ref="9252012058"/>
+  <nd ref="9252012057"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489151" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012073"/>
+  <nd ref="9252012072"/>
+  <nd ref="9252012075"/>
+  <nd ref="9252012071"/>
+  <nd ref="9252012070"/>
+  <nd ref="9252012069"/>
+  <nd ref="9252012068"/>
+  <nd ref="9252012067"/>
+  <nd ref="9252012066"/>
+  <nd ref="9252012065"/>
+  <nd ref="9252012064"/>
+  <nd ref="9252012063"/>
+  <nd ref="9252012062"/>
+  <nd ref="9252012073"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489152" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012074"/>
+  <nd ref="9252012066"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1002489153" visible="true" version="1" changeset="113786433" timestamp="2021-11-15T04:34:50Z" user="Kirkepladsen" uid="10892567">
+  <nd ref="9252012076"/>
+  <nd ref="9252012031"/>
+  <nd ref="9252012056"/>
+  <nd ref="9252012075"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="1338137100" visible="true" version="1" changeset="159639016" timestamp="2024-11-27T00:46:14Z" user="LakeTaymyr" uid="16853720">
+  <nd ref="12377448817"/>
+  <nd ref="12377448816"/>
+  <nd ref="12377448815"/>
+  <nd ref="12377448814"/>
+  <nd ref="12377448813"/>
+  <nd ref="12377448812"/>
+  <nd ref="12377448811"/>
+  <nd ref="12377448810"/>
+  <nd ref="12377448809"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>
