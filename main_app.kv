@@ -244,6 +244,7 @@ MDBoxLayout:
                             mode: 'outlined'
                             size_hint_x: .99
                             pos_hint: {"center_x": .5, "center_y": .7}
+                            mulitline: True
 
                             radius: 10, 10, 10, 10
                             MDTextFieldHintText: 
@@ -264,43 +265,35 @@ MDBoxLayout:
             image_size: "600"
 
             MDCard:
-                size_hint: 0.75, 0.85
+                size_hint: 1, 1
                 pos_hint: {"center_x": .5, "center_y": .5}
                 style: "elevated"
                 theme_elevation_level: "Custom"
                 elevation_level: 2
 
-                MDFloatLayout:
+                MDBoxLayout:
+                    orientation: 'vertical'
 
                 # real bounding box 8.72833, 8.71433, 4.47161, 4.49341
 
                     MapView:
                         id: map_view
                         map_source: MapSource(url=app.map_sources[app.current_map])
-                        lat: 8.717236
+                        lat: 8.717236  # Centered in KWASU
                         lon: 4.477021
-                        zoom: 12
-
-                
-
-                    MDButton:
-                        pos_hint: {"center_x": .5}
-                        #on_release: app.add_marker(8.717236, 4.477021)
-
-                        MDButtonText:
-                            text: "Add Marker"
+                        zoom: 15
+                        #on_touch_up: app.add_marker_on_click(*args)
 
                     
-                    MDDropDownItem:
-                        pos_hint: {"bottom": 0.9, "right": 1}
-                        on_disabled: app.disable_dropdown()
-                        on_release: app.open_menu(self)
+                    # MDDropDownItem:
+                    #     pos_hint: {"center_x": 0.5, "center_y": 0.2}
+                    #     on_disabled: app.disable_dropdown()
+                    #     on_release: app.open_menu(self)
 
-                        MDDropDownItemText:
-                            id: drop_text
-                            text: "Pick a destination"
+                    #     MDDropDownItemText:
+                    #         id: drop_text
+                    #         text: "Pick a destination"
             
-
 
     MDNavigationBar:
         on_switch_tabs: app.on_switch_tabs(*args)

@@ -70,7 +70,7 @@ kivy-deps.glew==0.3.1
 Kivy-Garden==0.1.5
 kivy_deps.sdl2==0.8.0
 kivy_webview==0.0.0a0
-kivymd @ file:///C:/Users/adebi/Desktop/2025_projects/adejoke_chatbot/KivyMD
+https://github.com/kivymd/KivyMD/archive/master.zip
 kvhot==2024.9.12
 langcodes==3.5.0
 language_data==1.3.0

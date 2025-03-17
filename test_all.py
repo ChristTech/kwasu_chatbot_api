@@ -1,39 +1,87 @@
-import overpy
+import requests
+import time
 
-def fetch_locations():
-    # Initialize the Overpass API
-    api = overpy.Overpass()
-
-    # Define the bounding box for KWASU (min_lat, min_lon, max_lat, max_lon)
-    bbox = (8.7800, 4.4000, 8.9800, 4.6000)
-
-    # Define the Overpass query to fetch all named features
-    query = f"""
-        [out:json];
-        (
-            node["name"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]});
-            way["name"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]});
-            relation["name"]({bbox[0]},{bbox[1]},{bbox[2]},{bbox[3]});
-        );
-        out body;
-        >;
-        out skel qt;
+def get_osm_places_from_bbox(south, north, west, east):
     """
+    Fetches points of interest from OpenStreetMap within a bounding box.
 
-    # Execute the query
-    result = api.query(query)
+    Returns:
+        List of (lat, lon) tuples.
+    """
+    query = f"""
+    [out:json][timeout:25];
+    (
+      node({south},{west},{north},{east});
+    );
+    out center;
+    """
+    
+    url = "http://overpass-api.de/api/interpreter"
+    response = requests.post(url, data={'data': query})
 
-    # Dictionary to store location names and their coordinates
-    location_coordinates = {}
+    coordinates = []
+    if response.status_code == 200:
+        data = response.json()
+        for element in data.get("elements", []):
+            lat = element.get("lat")
+            lon = element.get("lon")
+            if lat and lon:
+                coordinates.append((lat, lon))
+    else:
+        print("Error:", response.status_code, response.text)
 
-    # Extract and save location data
-    for node in result.nodes:
-        name = node.tags.get("name", "Unnamed Location")
-        latitude = node.lat
-        longitude = node.lon
-        location_coordinates[name] = (latitude, longitude)
-        print(f"Fetched {name}: ({latitude}, {longitude})")
+    return coordinates
 
-    return location_coordinates
+def reverse_geocode(lat, lon):
+    """
+    Uses OpenStreetMap's Nominatim API to get a place name from coordinates.
 
-fetch_locations()
+    Returns:
+        tuple: (place_name, lat, lon)
+    """
+    url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={lat}&lon={lon}&zoom=18&addressdetails=1"
+    headers = {"User-Agent": "Kivy-App/1.0"}
+    
+    response = requests.get(url, headers=headers)
+    
+    if response.status_code == 200:
+        data = response.json()
+        place_name = data.get("display_name")
+
+        # Try to extract more useful information if display_name is missing
+        if not place_name and "address" in data:
+            address = data["address"]
+            place_name = address.get("name") or address.get("road") or address.get("building")
+
+        if place_name:
+            return place_name, lat, lon
+
+    print(f"Reverse geocoding failed for ({lat}, {lon}):", response.status_code)
+    return None  # Skip if no name is found
+
+def get_places_with_names(south, north, west, east):
+    """
+    Retrieves all coordinates in the bounding box and reverse geocodes them.
+
+    Returns:
+        dict: {place_name: (lat, lon)}
+    """
+    coordinates = get_osm_places_from_bbox(south, north, west, east)
+    places = {}
+
+    for lat, lon in coordinates:
+        result = reverse_geocode(lat, lon)
+        if result:
+            place_name, lat, lon = result
+            places[place_name] = (lat, lon)
+        time.sleep(1)  # Avoid exceeding API rate limits
+
+    return places
+
+# Example usage
+if __name__ == "__main__":
+    south, north, west, east = 8.71433, 8.72833, 4.47161, 4.49341
+    places_data = get_places_with_names(south, north, west, east)
+
+    for name, coords in places_data.items():
+        print(f"{name}: {coords}")

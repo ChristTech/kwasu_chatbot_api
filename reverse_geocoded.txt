@@ -1,0 +1,416 @@
+8.7144628, 4.493301 -> unnamed road, Kwara State, Nigeria
+8.7153694, 4.4905691 -> unnamed road, Kwara State, Nigeria
+8.7158588, 4.4922914 -> unnamed road, Kwara State, Nigeria
+8.7159463, 4.4727118 -> unnamed road, Kwara State, Nigeria
+8.7161006, 4.4785863 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7161976, 4.4723448 -> unnamed road, Kwara State, Nigeria
+8.7162048, 4.4717078 -> unnamed road, Kwara State, Nigeria
+8.7162864, 4.4716733 -> unnamed road, Kwara State, Nigeria
+8.7163585, 4.4722586 -> unnamed road, Kwara State, Nigeria
+8.7163799, 4.472319 -> unnamed road, Kwara State, Nigeria
+8.7164158, 4.4722358 -> unnamed road, Kwara State, Nigeria
+8.7164383, 4.472295 -> unnamed road, Kwara State, Nigeria
+8.7164505, 4.4722007 -> unnamed road, Kwara State, Nigeria
+8.7164956, 4.4723067 -> unnamed road, Kwara State, Nigeria
+8.7165035, 4.4721773 -> unnamed road, Kwara State, Nigeria
+8.7165221, 4.4725394 -> unnamed road, Kwara State, Nigeria
+8.7165572, 4.4722777 -> unnamed road, Kwara State, Nigeria
+8.7165425, 4.4721803 -> unnamed road, Kwara State, Nigeria
+8.7165587, 4.4856872 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7165729, 4.4722471 -> unnamed road, Kwara State, Nigeria
+8.7166156, 4.4721649 -> unnamed road, Kwara State, Nigeria
+8.7166376, 4.4722167 -> unnamed road, Kwara State, Nigeria
+8.7167054, 4.4729387 -> unnamed road, Kwara State, Nigeria
+8.7167389, 4.4721397 -> unnamed road, Kwara State, Nigeria
+8.7168846, 4.4730467 -> unnamed road, Kwara State, Nigeria
+8.7168859, 4.4910013 -> unnamed road, Kwara State, Nigeria
+8.7170233, 4.4736797 -> unnamed road, Kwara State, Nigeria
+8.7171017, 4.4739578 -> unnamed road, Kwara State, Nigeria
+8.7171204, 4.4743305 -> unnamed road, Kwara State, Nigeria
+8.7171674, 4.4738135 -> unnamed road, Kwara State, Nigeria
+8.7171703, 4.4754758 -> unnamed road, Kwara State, Nigeria
+8.7172088, 4.4740749 -> unnamed road, Kwara State, Nigeria
+8.7172252, 4.4768811 -> unnamed road, Kwara State, Nigeria
+8.7172283, 4.4745779 -> unnamed road, Kwara State, Nigeria
+8.7172812, 4.4782865 -> unnamed road, Kwara State, Nigeria
+8.7173312, 4.4792777 -> unnamed road, Kwara State, Nigeria
+8.7173379, 4.4772851 -> unnamed road, Kwara State, Nigeria
+8.7173702, 4.4803638 -> unnamed road, Kwara State, Nigeria
+8.7173946, 4.4810653 -> unnamed road, Kwara State, Nigeria
+8.7174585, 4.471718 -> unnamed road, Kwara State, Nigeria
+8.7174799, 4.4813993 -> unnamed road, Kwara State, Nigeria
+8.7174842, 4.4808725 -> unnamed road, Kwara State, Nigeria
+8.7175549, 4.4812769 -> unnamed road, Kwara State, Nigeria
+8.7176135, 4.4816968 -> unnamed road, Kwara State, Nigeria
+8.7176938, 4.4816418 -> unnamed road, Kwara State, Nigeria
+8.7178382, 4.4820071 -> unnamed road, Kwara State, Nigeria
+8.7178692, 4.4818957 -> unnamed road, Kwara State, Nigeria
+8.7179528, 4.4931235 -> unnamed road, Kwara State, Nigeria
+8.7180198, 4.4896484 -> unnamed road, Kwara State, Nigeria
+8.7180746, 4.4893189 -> unnamed road, Kwara State, Nigeria
+8.7182562, 4.4824065 -> unnamed road, Kwara State, Nigeria
+8.7182893, 4.4845027 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7182996, 4.4843755 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7183122, 4.4895099 -> unnamed road, Kwara State, Nigeria
+8.7183548, 4.4838428 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7183461, 4.4851198 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7183989, 4.4824147 -> unnamed road, Kwara State, Nigeria
+8.7184043, 4.4826952 -> unnamed road, Kwara State, Nigeria
+8.7184268, 4.4825755 -> unnamed road, Kwara State, Nigeria
+8.7184353, 4.4828129 -> unnamed road, Kwara State, Nigeria
+8.7184461, 4.4833712 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7184985, 4.4824775 -> unnamed road, Kwara State, Nigeria
+8.718503, 4.4859637 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7185138, 4.4829053 -> unnamed road, Kwara State, Nigeria
+8.7185234, 4.4824642 -> unnamed road, Kwara State, Nigeria
+8.7185914, 4.4829397 -> unnamed road, Kwara State, Nigeria
+8.718605, 4.4824207 -> unnamed road, Kwara State, Nigeria
+8.7186219, 4.486335 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7186241, 4.4829542 -> unnamed road, Kwara State, Nigeria
+8.7187254, 4.4824163 -> unnamed road, Kwara State, Nigeria
+8.7187445, 4.4829498 -> unnamed road, Kwara State, Nigeria
+8.7188357, 4.4824651 -> unnamed road, Kwara State, Nigeria
+8.7188511, 4.482893 -> unnamed road, Kwara State, Nigeria
+8.7189142, 4.4825576 -> unnamed road, Kwara State, Nigeria
+8.7189227, 4.482795 -> unnamed road, Kwara State, Nigeria
+8.7189452, 4.4826753 -> unnamed road, Kwara State, Nigeria
+8.7191672, 4.4880047 -> unnamed road, Kwara State, Nigeria
+8.7191757, 4.4879202 -> unnamed road, Kwara State, Nigeria
+8.7191933, 4.4880854 -> unnamed road, Kwara State, Nigeria
+8.7192156, 4.4819498 -> unnamed road, Kwara State, Nigeria
+8.7192175, 4.4878465 -> unnamed road, Kwara State, Nigeria
+8.7192497, 4.4881483 -> unnamed road, Kwara State, Nigeria
+8.7192853, 4.4877964 -> unnamed road, Kwara State, Nigeria
+8.7193264, 4.4881827 -> unnamed road, Kwara State, Nigeria
+8.7193674, 4.4877785 -> unnamed road, Kwara State, Nigeria
+8.7194104, 4.4881825 -> unnamed road, Kwara State, Nigeria
+8.7194496, 4.487796 -> unnamed road, Kwara State, Nigeria
+8.719487, 4.4881477 -> unnamed road, Kwara State, Nigeria
+8.7195176, 4.4878457 -> unnamed road, Kwara State, Nigeria
+8.719543, 4.4880845 -> unnamed road, Kwara State, Nigeria
+8.7195598, 4.4879192 -> unnamed road, Kwara State, Nigeria
+8.719562, 4.4816098 -> unnamed road, Kwara State, Nigeria
+8.7195688, 4.4880036 -> unnamed road, Kwara State, Nigeria
+8.719596, 4.4842844 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7197558, 4.4836881 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.719656, 4.4847495 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7198119, 4.481425 -> unnamed road, Kwara State, Nigeria
+8.7200487, 4.4831198 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7200687, 4.4812608 -> unnamed road, Kwara State, Nigeria
+8.7197696, 4.4851765 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203082, 4.4811077 -> unnamed road, Kwara State, Nigeria
+8.7205692, 4.4826142 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7205954, 4.4826027 -> unnamed road, Kwara State, Nigeria
+8.7206909, 4.4861652 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7207235, 4.4809194 -> unnamed road, Kwara State, Nigeria
+8.7208552, 4.4824887 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7211587, 4.4860055 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7211804, 4.4863553 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7212688, 4.4860614 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.721316, 4.4879753 -> unnamed road, Kwara State, Nigeria
+8.7213171, 4.4823875 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7213232, 4.4856739 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7213887, 4.480773 -> unnamed road, Kwara State, Nigeria
+8.7213943, 4.4855833 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7214333, 4.4857298 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7214733, 4.4860117 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7215027, 4.4856423 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7215308, 4.4858987 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7215661, 4.4852603 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7215489, 4.4864224 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7216746, 4.4853193 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7216918, 4.4857036 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217652, 4.4855589 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217741, 4.4855643 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217848, 4.4855258 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217964, 4.4855328 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217974, 4.4861806 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218092, 4.4856878 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218444, 4.4823457 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218456, 4.4856262 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218549, 4.4860676 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218583, 4.4856338 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218663, 4.4855874 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218691, 4.4858107 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218707, 4.485407 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218805, 4.4855961 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219042, 4.4855233 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219069, 4.4857468 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219269, 4.4858407 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219658, 4.4857683 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219962, 4.4855789 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220379, 4.4855081 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220482, 4.4855968 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220599, 4.48582 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220806, 4.4857463 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220833, 4.4855313 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220952, 4.4857543 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220981, 4.4859348 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221013, 4.4857077 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221021, 4.4807451 -> unnamed road, Kwara State, Nigeria
+8.7221143, 4.4857148 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221444, 4.4871116 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220884, 4.4864841 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221481, 4.4856517 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221672, 4.485806 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221791, 4.4858126 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221883, 4.4857736 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221973, 4.4857786 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222076, 4.4869621 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222168, 4.4869668 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222249, 4.4869277 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222369, 4.4869338 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222604, 4.4870876 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222648, 4.4856311 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222925, 4.4870235 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223023, 4.4868031 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223056, 4.4870302 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223104, 4.4869834 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223252, 4.486991 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223287, 4.4872059 -> unnamed road, Kwara State, Nigeria
+8.7223438, 4.4869167 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223619, 4.4871395 -> unnamed road, Kwara State, Nigeria
+8.7223665, 4.4872358 -> unnamed road, Kwara State, Nigeria
+8.7223896, 4.4861951 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224003, 4.4871608 -> unnamed road, Kwara State, Nigeria
+8.7224054, 4.4807642 -> unnamed road, Kwara State, Nigeria
+8.7224394, 4.4869657 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224416, 4.4860982 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224682, 4.4825305 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224709, 4.486984 -> unnamed road, Kwara State, Nigeria
+8.7224762, 4.4868922 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224978, 4.4872059 -> unnamed road, Kwara State, Nigeria
+8.7225015, 4.4869163 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7225134, 4.4871309 -> unnamed road, Kwara State, Nigeria
+8.7225285, 4.4871379 -> unnamed road, Kwara State, Nigeria
+8.7225314, 4.4870909 -> unnamed road, Kwara State, Nigeria
+8.7225437, 4.4873177 -> unnamed road, Kwara State, Nigeria
+8.7225439, 4.4859293 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7225448, 4.4870971 -> unnamed road, Kwara State, Nigeria
+8.7225743, 4.4870318 -> unnamed road, Kwara State, Nigeria
+8.7226039, 4.4871845 -> unnamed road, Kwara State, Nigeria
+8.7226074, 4.4858181 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7226162, 4.4871901 -> unnamed road, Kwara State, Nigeria
+8.7226214, 4.4857998 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7226227, 4.4871507 -> unnamed road, Kwara State, Nigeria
+8.7226321, 4.487155 -> unnamed road, Kwara State, Nigeria
+8.7226743, 4.4857037 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7226893, 4.4870031 -> unnamed road, Kwara State, Nigeria
+8.7227089, 4.4863702 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7227207, 4.4867174 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7227608, 4.4862732 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7228583, 4.486113 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7229218, 4.4860018 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7229346, 4.4859761 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7229632, 4.4828749 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7229539, 4.4840244 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7229875, 4.48588 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7230465, 4.4806126 -> unnamed road, Kwara State, Nigeria
+8.7230506, 4.4838945 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7230584, 4.4839013 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7230722, 4.484029 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7230754, 4.4838652 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7230857, 4.4838741 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231106, 4.4841605 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231185, 4.4839746 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231296, 4.4839843 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231433, 4.4841971 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231453, 4.48394 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231579, 4.4839509 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231585, 4.484104 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.72318, 4.4837629 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231935, 4.4838832 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7231936, 4.4841323 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7232748, 4.4839539 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7232779, 4.4841992 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7232966, 4.4843188 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233031, 4.4839771 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233104, 4.48413 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233235, 4.4841404 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233278, 4.4838914 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233372, 4.4840954 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233485, 4.4839185 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233488, 4.4841046 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233455, 4.4833437 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233762, 4.4805313 -> unnamed road, Kwara State, Nigeria
+8.723386, 4.4842035 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233926, 4.4840481 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233966, 4.484212 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233989, 4.4804124 -> unnamed road, Kwara State, Nigeria
+8.723412, 4.4841751 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7234202, 4.4841816 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7234278, 4.4806509 -> unnamed road, Kwara State, Nigeria
+8.7234822, 4.4803254 -> unnamed road, Kwara State, Nigeria
+8.723511, 4.4840475 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7235388, 4.4807172 -> unnamed road, Kwara State, Nigeria
+8.7235989, 4.4802987 -> unnamed road, Kwara State, Nigeria
+8.7236512, 4.4807115 -> unnamed road, Kwara State, Nigeria
+8.7237111, 4.4803411 -> unnamed road, Kwara State, Nigeria
+8.7237794, 4.4804315 -> unnamed road, Kwara State, Nigeria
+8.7236812, 4.4837689 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7237444, 4.4806478 -> unnamed road, Kwara State, Nigeria
+8.7237916, 4.4805446 -> unnamed road, Kwara State, Nigeria
+8.7242432, 4.4841205 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7244877, 4.4777964 -> unnamed road, Kwara State, Nigeria
+8.7246889, 4.4819395 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7245836, 4.4842353 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7249521, 4.4892673 -> unnamed road, Kwara State, Nigeria
+8.7251401, 4.4880879 -> unnamed road, Kwara State, Nigeria
+8.7252603, 4.4782707 -> unnamed road, Kwara State, Nigeria
+8.7253392, 4.4841763 -> unnamed road, Kwara State, Nigeria
+8.725587, 4.4784445 -> unnamed road, Kwara State, Nigeria
+8.7258527, 4.4838939 -> unnamed road, Kwara State, Nigeria
+8.7260629, 4.4837683 -> unnamed road, Kwara State, Nigeria
+8.7271162, 4.4831625 -> unnamed road, Kwara State, Nigeria
+8.7279869, 4.4771633 -> unnamed road, Kwara State, Nigeria
+8.7203744, 4.4863982 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202444, 4.4863726 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203055, 4.4863862 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204274, 4.4863929 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7205096, 4.4863795 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.720574, 4.4863694 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7195777, 4.4851805 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7198269, 4.4856204 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7200947, 4.4861059 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202455, 4.4865846 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202576, 4.4865479 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202801, 4.4865165 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203108, 4.4864935 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.720347, 4.486481 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203892, 4.4864807 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204292, 4.4864945 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204623, 4.4865209 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204849, 4.486557 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204907, 4.4866372 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204758, 4.4866728 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204509, 4.4867022 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204184, 4.4867226 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203813, 4.4867322 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203431, 4.4867301 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203073, 4.4867164 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202773, 4.4866924 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202558, 4.4866604 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202448, 4.4866233 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204944, 4.4865986 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.720951, 4.4863003 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.720328, 4.4859141 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7200205, 4.4855976 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7241855, 4.4877675 -> unnamed road, Kwara State, Nigeria
+8.724037, 4.4881028 -> unnamed road, Kwara State, Nigeria
+8.7241842, 4.4878158 -> unnamed road, Kwara State, Nigeria
+8.7240503, 4.4826646 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7234697, 4.4769582 -> unnamed road, Kwara State, Nigeria
+8.7238567, 4.4770521 -> unnamed road, Kwara State, Nigeria
+8.7241801, 4.4771522 -> unnamed road, Kwara State, Nigeria
+8.7246653, 4.4775107 -> unnamed road, Kwara State, Nigeria
+8.7241537, 4.4877273 -> unnamed road, Kwara State, Nigeria
+8.7227857, 4.4869199 -> unnamed road, Kwara State, Nigeria
+8.7227247, 4.4868261 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7204606, 4.4802734 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7203227, 4.4800106 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220119, 4.4805552 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7212665, 4.4806758 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7206912, 4.4808125 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7201501, 4.4810664 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.720564, 4.4805309 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202485, 4.4806758 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7201848, 4.4807669 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7201323, 4.4812201 -> unnamed road, Kwara State, Nigeria
+8.7175442, 4.4859597 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7179976, 4.4853696 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7180771, 4.485147 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7180798, 4.4849592 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7180135, 4.4847044 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7179234, 4.4844335 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7179896, 4.4842753 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7180798, 4.4842055 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7183132, 4.4842066 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7249755, 4.4842458 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7239495, 4.4839749 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7225577, 4.485603 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7239548, 4.4831139 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7244016, 4.483358 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7235373, 4.482902 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7233716, 4.4828175 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7229156, 4.4823374 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.72273, 4.4821563 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7225908, 4.4820732 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222024, 4.4820182 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.722103, 4.482041 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220248, 4.4820839 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219691, 4.4821349 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219397, 4.4823739 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.723862, 4.4817299 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.724676, 4.4810379 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7234897, 4.4809196 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7240158, 4.4828631 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7241351, 4.482501 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7243008, 4.4823052 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.72433, 4.4822113 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.724318, 4.4820973 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7242743, 4.4820182 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7241563, 4.4819176 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7236049, 4.4814777 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7234803, 4.4812578 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7234564, 4.4810566 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7244055, 4.4777173 -> unnamed road, Kwara State, Nigeria
+8.7236579, 4.4747534 -> unnamed road, Kwara State, Nigeria
+8.7236606, 4.4752282 -> unnamed road, Kwara State, Nigeria
+8.7236765, 4.4755635 -> unnamed road, Kwara State, Nigeria
+8.7237958, 4.4759926 -> unnamed road, Kwara State, Nigeria
+8.72409, 4.4769046 -> unnamed road, Kwara State, Nigeria
+8.7243618, 4.4776516 -> unnamed road, Kwara State, Nigeria
+8.7166282, 4.4721926 -> unnamed road, Kwara State, Nigeria
+8.7192622, 4.486877 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7202172, 4.4863242 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219081, 4.4828984 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.721993, 4.4827558 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224927, 4.4832956 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224224, 4.4832627 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223906, 4.483256 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223601, 4.4832118 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223694, 4.4831541 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223946, 4.4831125 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224278, 4.4830629 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224582, 4.4829825 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224794, 4.4829355 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224755, 4.4828551 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224476, 4.4827826 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.722388, 4.4827142 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7223098, 4.4826861 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221547, 4.4826445 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219969, 4.4826123 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7214662, 4.4827971 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7214773, 4.4826398 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7215316, 4.4826043 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7216052, 4.4825855 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217219, 4.4825915 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7217988, 4.4826264 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218538, 4.4827022 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7218995, 4.4827974 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219142, 4.4829693 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.721993, 4.4831112 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7224486, 4.4833846 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220354, 4.478192 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221255, 4.4796833 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221573, 4.4800642 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221017, 4.4803271 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7219346, 4.4807517 -> unnamed road, Kwara State, Nigeria
+8.7220652, 4.4838285 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220357, 4.4838853 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220357, 4.4839495 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7220651, 4.4840064 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221174, 4.4840428 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221803, 4.4840506 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222397, 4.4840278 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222817, 4.4839798 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222969, 4.4839175 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222818, 4.4838552 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221804, 4.4837844 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7221174, 4.4837921 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7208172, 4.4862346 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7222397, 4.4838071 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7227827, 4.4827091 -> Kwara State University, Malete Road, Kwara State, Nigeria
+8.7144582, 4.4716823 -> unnamed road, Kwara State, Nigeria
+8.7144874, 4.4716904 -> unnamed road, Kwara State, Nigeria
+8.7145165, 4.471685 -> unnamed road, Kwara State, Nigeria
